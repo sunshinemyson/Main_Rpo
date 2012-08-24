@@ -1,0 +1,6 @@
+[submodule "SubModule_ALib"]
+	path = SubModule_ALib
+	url = git@github.com:sunshinemyson/SubModule_ALib.git
+[submodule "SubModule_BLib"]
+	path = SubModule_BLib
+	url = git@github.com:sunshinemyson/SubModule_BLib.git
