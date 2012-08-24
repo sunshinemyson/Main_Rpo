@@ -4,3 +4,6 @@ use pkg_b;
 use pkg_a;
 pkg_a::say();
 pkg_b::say();
+
+pkg_a::newFunc();
+pkg_b::newFunc();
